@@ -7,7 +7,6 @@ Android application to control a strip of programmable leds. Final project of th
 # Ideas
 - Use of the HC-05 bluetooth module and Arduino / Atmega;
 - Writing an application for selecting the number of LEDs, selecting their colors, selecting lighting effects;
-- Additional elements such as reading from sensors - make the lighting dependent on it, the use of the camera as well.
   
 # Project evaluation components
 - TextView, EditText, Button LinearLayout,...
@@ -15,9 +14,8 @@ Android application to control a strip of programmable leds. Final project of th
 - Additional UI: Color Picker,...
 - External communication: Bluetooth
 - Multilingualism
-- Sensors
   
 # Schematic diagram
   
 <p align="center">
-<img width="600" height="400" src="https://github.com/SzymonMs/LED_Controller/blob/main/Diagram.png">
+<img width="600" height="400" src="https://github.com/SzymonMs/Kotlin_files_and_Android_App/blob/main/Diagram.png">
